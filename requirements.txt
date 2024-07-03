@@ -7,7 +7,7 @@ botocore==1.17.31
 cachelib==0.1
 certifi==2020.4.5.1
 chardet==3.0.4
-click
+click==7.1.2
 colorama==0.4.4
 cs50==5.0.4
 distlib==0.3.1
